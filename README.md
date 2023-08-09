@@ -2,9 +2,11 @@
 <!-- ABOUT THE PROJECT -->
 # SMB emulator
 
-<img src = "README-assets/smb_Antarctica.png" alt = "3D visualisation of Antarctica" width = "800" height = "800">
+<img src = "README-assets/smb_Antarctica_masked.png" alt = "3D visualisation of Antarctica" width = "800" height = "800">
 
 Emulation of surface mass balance (smb)
+
+-----------
 
 ## Keywords: 
 - Probabilistc Machine Learning
